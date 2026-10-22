@@ -1,0 +1,5 @@
+class Card_Config():
+    deck = {"Spades": ("Ace", "King", "Queen", "Jack", "10", "9", "8", "7", "6", "5", "4", "3", "2"),
+            "Hearts": ("Ace", "King", "Queen", "Jack", "10", "9", "8", "7", "6", "5", "4", "3", "2"),
+            "Diamonds": ("Ace", "King", "Queen", "Jack", "10", "9", "8", "7", "6", "5", "4", "3", "2"),
+            "Clubs": ("Ace", "King", "Queen", "Jack", "10", "9", "8", "7", "6", "5", "4", "3", "2")}
