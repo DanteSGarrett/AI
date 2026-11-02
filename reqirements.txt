@@ -5,5 +5,3 @@ seaborn
 matplotlib
 IPython
 statsmodels
-itertools
-math
