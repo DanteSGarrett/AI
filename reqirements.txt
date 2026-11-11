@@ -6,3 +6,7 @@ matplotlib
 IPython
 statsmodels
 scipy
+gymnasium
+"gymnasium[atari]"
+ale-py
+autorom[accept-rom-license]
